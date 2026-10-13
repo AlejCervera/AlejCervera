@@ -1,84 +1,33 @@
-<div align="center">
+Hi, I'm Alejandro Cervera 👋
 
-# 👋 Hey, I'm Alejandro Cervera
+Business Intelligence and Analytics graduate (Universitat de València) with hands-on experience in R and SQL, applied to public labour market data and to quantitative finance. Currently completing a Master's in AI, Big Data & Cloud at EDEM, working on data and machine learning solutions on Google Cloud.
 
-![Status](https://img.shields.io/badge/status-learning%20in%20public-brightgreen?style=for-the-badge)
-![Big Data](https://img.shields.io/badge/Big%20Data-in%20progress-blue?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-loading...-purple?style=for-the-badge)
-![Finance](https://img.shields.io/badge/📈-finance%20%26%20economics-gold?style=for-the-badge)
-![Football](https://img.shields.io/badge/⚽-football%20addict-success?style=for-the-badge)
-![F1](https://img.shields.io/badge/🏎️-F1%20fan-red?style=for-the-badge)
+📍 Valencia, Spain · 🎯 Looking for data analyst roles · 🌐 Spanish & Valencian (native), English (B2, Cambridge First)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cervera-alcalá-9711a12b3/)
+🧰 Skills
+Programming & data: R, Python, SQL
+Visualisation & reporting: Power BI, Excel
+Methods: statistical modelling, Monte Carlo simulation, bootstrap resampling, financial analysis
+Currently learning (Master's at EDEM): Google Cloud Platform (BigQuery, Dataflow), machine learning and deep learning, MLOps, generative AI
+💼 Experience
 
-</div>
+Data Analyst Intern, Modernisation and Analysis Department: LABORA (Valencian Employment and Training Service) · 01/2026 – 05/2026
 
----
+Designed and built a dashboard tracking monthly unemployment data for the Valencian Community, enabling press officers and institutional representatives to access labour market insights without direct access to the underlying data.
+Optimised database loading and processing in R and SQL, reducing processing time and improving code quality.
+Maintained and improved the quality and structure of labour market databases.
+🎓 Education
+Master in Artificial Intelligence, Big Data & Cloud: EDEM Escuela de Empresarios · 09/2026 – 07/2027 (expected) Hands-on programme on Google Cloud covering MLOps and generative AI, with a capstone project for a partner company.
+Bachelor's Degree in Business Intelligence & Analytics: Universitat de València · 2022 – 2026 Coursework in statistical modelling, operations research, financial planning and digital commerce.
+📊 Featured project
+Pension portfolio allocation: classical 60/40 vs. 50/20/30
 
-## 🧬 `whoami`
+Final Degree Project (grade: 10/10). Comparison of a classical 60/40 portfolio with a 50/20/30 allocation for pension planning, based on 20 years of daily market data (2006-2026).
 
-```python
-class Alejandro:
-    def __init__(self):
-        self.name = "Alejandro Cervera"
-        self.based_in = "Valencia, Spain 🇪🇸"
-        self.studied = "Business Intelligence & Analytics @ Universitat de València"
-        self.studying = "Master's in Big Data & AI @ EDEM"
-        self.loves = ["Technology", "Programming", "Finance", "Economics", "Football", "Formula 1"]
-        self.fuel = "Curiosity (and probably coffee)"
-
-    def current_mission(self):
-        return "Learn fast, build things, break things, fix things."
-```
-
----
-
-## 🎓 My Journey So Far
-
-| Lap | Pit stop | Status |
-|:---:|----------|:------:|
-| 🏁 1 | **Business Intelligence & Analytics** · Universitat de València (UV) | ✅ Completed |
-| 🏎️ 2 | **Master's in Big Data & AI** · EDEM | 🔥 In progress |
-| 🏆 3 | Whatever I decide to build next | 🚀 Loading... |
-
-> Think of it as a race: the degree was qualifying, the master's is the main event, and I'm pushing for the fastest lap.
-
----
-
-## 💻 What I'm About
-
-- 🤖 **Tech enthusiast** — if it has a CPU, I want to know how it works.
-- 👨‍💻 **Programming lover** — turning ideas into code is my favorite kind of magic.
-- 📊 **Data-driven mindset** — I trust numbers, then I question them anyway.
-- 🧠 **AI curious** — the future is being written right now, and I want to be in the room.
-- 📈 **Finance & economics fan** — markets, incentives, and why everyone is always surprised by inflation. Money makes the world go round, and I like understanding the spin.
-
----
-
-## ⚽🏎️ Off the Keyboard
-
-**⚽ Football** — Debugging a 4-3-3 is surprisingly similar to debugging code: everything looks fine until someone leaves the back line open.
-
-**🏎️ Formula 1** — A sport where data, engineering and strategy decide races. Telemetry is basically big data at 300 km/h. Of course I'm hooked.
-
-**📈 Finance & Economics** — The only place where "past performance is not indicative of future results" is printed everywhere and ignored by everyone. I find that fascinating.
-
-```text
-if (weekend == "Grand Prix" or weekend == "Matchday"):
-    productivity = 0
-    happiness = float("inf")
-```
-
----
-
-## 📬 Let's Connect
-
-Got a project, an idea, or just want to talk football, F1 or data? Reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Find%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-cervera-alcalá-9711a12b3/)
-
-*Thanks for stopping by*
-
-</div>
+Historical, Monte Carlo and bootstrap analysis in R
+Robustness checks across sub-periods and multiple shortfall thresholds
+Metrics: CAGR, Sharpe and Sortino ratios, maximum drawdown, shortfall probability
+<!-- TODO: add the repository link once the code is published -->
+📫 Contact
+LinkedIn: linkedin.com/in/alejandro-cervera-alcala
+Email: acerveraal@gmail.com
