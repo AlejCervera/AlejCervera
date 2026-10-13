@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d6a9f&height=200&section=header&text=Alejandro%20Cervera&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Business%20Intelligence%20%26%20Analytics&descSize=18&descAlignY=58" alt="Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d6a9f&height=140&section=header" alt="Banner" />
+
+<h1>Alejandro Cervera</h1>
+<h3>Business Intelligence and Analytics</h3>
 
 <a href="https://github.com/USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2D6A9F&center=true&vCenter=true&width=620&lines=Data+analytics+%C2%B7+R+%C2%B7+SQL+%C2%B7+Power+BI;Quantitative+finance+%26+Monte+Carlo+simulation;Learning+AI+%26+Cloud+on+Google+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2D6A9F&center=true&vCenter=true&width=620&lines=Data+analytics+%C2%B7+R+%C2%B7+SQL+%C2%B7+Power+BI;Quantitative+finance+and+Monte+Carlo+simulation;Learning+AI+and+Cloud+on+Google+Cloud" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -116,7 +119,7 @@ timeline
     2022 : Starts the BIA degree at Universitat de València
     2026 : Internship at LABORA (dashboards, R and SQL)
          : Final Degree Project on pension portfolios
-         : Starts the Master in AI, Big Data & Cloud at EDEM
+         : Starts the Master in AI, Big Data and Cloud at EDEM
     2027 : Master's capstone project (expected)
 ```
 
